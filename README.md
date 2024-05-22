@@ -30,8 +30,3 @@ Watch the demonstration video of our AI Voice Coach to see how it works in real-
 
 Experience real-time coaching while playing classic pool. The AI provides tips and strategies to improve your gameplay.
 
-## How to Push Existing Code Files
-
-1. **Initialize the Git repository**:
-   ```sh
-   git init
