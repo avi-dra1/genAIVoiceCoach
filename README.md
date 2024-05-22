@@ -30,3 +30,5 @@ Watch the demonstration video of our AI Voice Coach to see how it works in real-
 
 Experience real-time coaching while playing classic pool. The AI provides tips and strategies to improve your gameplay.
 
+##Installation
+You can get the VO Coach from this link https://chromewebstore.google.com/detail/vo-coach-for-favorite-gam/eaadfgpaknlhoeeiccfjhmlpblechjob
